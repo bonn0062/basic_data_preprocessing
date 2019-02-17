@@ -1,0 +1,11 @@
+Animal,Age,Worth,Friendly
+Cat,4,72000,No
+Dog,17,48000,Yes
+Moose,6,54000,No
+Dog,8,61000,No
+Moose,4,,Yes
+Cat,15,58000,Yes
+Dog,,52000,No
+Cat,12,79000,Yes
+Moose,5,83000,No
+Cat,7,67000,Yes
